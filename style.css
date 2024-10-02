@@ -28,6 +28,8 @@ h1 {
 #name p {text-align: center;
     font-size: 40px}
 #address {text-align: center}
+#ref {text-align: center}
+#reftitle {text-align: center}
 
 .center {
 display: block;
